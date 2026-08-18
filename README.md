@@ -1,30 +1,53 @@
+<div align="center">
+
 # Hi there, I'm Sharath 👋
 
-Welcome to my GitHub profile! I'm a passionate developer, always eager to collaborate, learn, and contribute to open-source projects.
+### Full-Stack Developer | Open-Source Enthusiast
 
-## 🚀 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharath-bhat7/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharathbhat755@gmail.com)
 
-- 🧑‍💻 Student | Open-Source Enthusiast
-- 🌱 Currently learning: **MERN Stack Development (MongoDB, Express.js, React, Node.js)**
-- 💬 Ask me about: MERN Stack fundamentals, getting started with web development, beginner Java
-- 🛠️ Tools & Languages:  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+</div>
 
-- 🌟 Interests:  
-  - Full Stack Web Development
-  - Java Programming (Beginner)
-  - Open Source Contribution
-  - Learning new technologies
+---
 
-- 📫 How to reach me:  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sharath-bhat7/)
-  [![Email](https://img.shields.io/badge/-Email-d14836?style=flat&logo=email)](mailto:sharathbhat755@gmail.com)
+### 🚀 About Me
 
+- 🧑‍💻 Student · Open-Source Enthusiast
+- 🌱 Currently learning **MERN Stack Development** (MongoDB · Express.js · React · Node.js)
+- 💬 Ask me about: MERN fundamentals, getting started with web dev, beginner Java
+- ⚡ Always eager to collaborate, learn, and contribute to open-source projects
 
+---
 
-*Let's connect, build, and share knowledge together! 🚀*
+### 🛠️ Tools & Languages
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</div>
+
+---
+
+### 🌟 Interests
+
+| | |
+|---|---|
+| 🌐 | Full Stack Web Development |
+| ☕ | Java Programming (DSA) |
+| 🔧 | Open Source Contribution |
+| 📚 | Learning new technologies |
+
+---
+
+<div align="center">
+
+*Let's connect, build, and share knowledge together!* 🚀
+
+</div>
